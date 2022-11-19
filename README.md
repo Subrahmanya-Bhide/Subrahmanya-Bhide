@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Subrahmanya-Bhide
 - 👀 I’m interested in Aerospace control system, Launch vehicle designs and optimizations, Deep Learning and Deep RL
-- 🌱 I’m currently learning BTech Aerospace Engineering
+- 🌱 I’m currently at Caltech pursuing my Masters in Space Engineering.
 - 📫 Reach me at subrahmanyabhide@gmail.com 
 
 <!---
